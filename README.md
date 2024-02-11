@@ -48,7 +48,7 @@ Discover a treasure trove of extensions and tools that were once the secret weap
     
     Start your bug bounty journey with tools that bring back the joy of hacking.
 
-## Testinomials
+## Testimonials
 
 From the legened [@zseano](https://github.com/zseano)
 
